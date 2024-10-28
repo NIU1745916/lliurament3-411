@@ -8,3 +8,9 @@ dwaddwadwaawadawdawdawdawdwa
 
 dawfawfgafwfa
 
+```bash
+./script.sh
+
+cat pichula.txt
+```
+
