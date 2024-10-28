@@ -8,9 +8,12 @@ dwaddwadwaawadawdawdawdawdwa
 
 dawfawfgafwfa
 
-```bash
-./script.sh
+```cpp
+#include <iostream>
 
-cat pichula.txt
+int main()
+{
+  return 0;
+}
 ```
 
